@@ -1,0 +1,30 @@
+@import "_mixins";
+/* COLOR THEME */
+$color1: #08476c; //#08476C
+$color2: #0c669b; //#0c669b
+// $color4: #9cb5c4;
+// $color3: #b1c4d5;
+$accent-color: #fcc419; //#fdb714; //#FFD00A
+$title-color: #343a40;
+$text: #495057;
+$text-color-light: #868e96;
+$body-color: #fbfcfe;
+$white: #fff;
+
+/* FONT & TYPOGRAPHY */
+//32px 24px 20px 18px 16px 14px 12px
+$biggest-font: 2rem;
+$h1-font: 1.5rem;
+$h2-font: 1.25rem;
+$h3-font: 1.125rem;
+$normal-font: 1rem;
+$small-font: 0.875rem;
+$smaller-font: 0.75rem;
+
+/* FONT & TYPOGRAPHY (Large Screen/Device) */
+//32px 24px 20px 18px 16px 14px 12px
+$biggest-font-lg: 3.125rem;
+$h1-font-lg: 2rem;
+$h2-font-lg: 1.5rem;
+$h3-font-lg: 1.25rem;
+$h4-font-lg: 1.125rem;
