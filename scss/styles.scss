@@ -7,7 +7,7 @@
 @import "_mixins";
 
 // FONT AWESOME ICONS
-@import url("/css/all.min.css");
+@import url("../css/all.min.css");
 
 /* MAIN STYLING */
 .btn-top {
@@ -149,7 +149,7 @@
   height: auto;
   background: {
     image: linear-gradient(rgba($color1, 0.15), rgba($color1, 0.15)),
-      url("/images/hero-banner.jpg");
+      url("../images/hero-banner.jpg");
     size: cover;
     position: bottom center;
   }
